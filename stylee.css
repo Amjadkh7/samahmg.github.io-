@@ -1,0 +1,104 @@
+
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    height: 100%;
+    display: flex;
+    padding: 3rem;
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(40, 19, 3, 0.953);
+}
+ 
+img{
+    height:100% ;
+    width:100%;
+   
+}
+
+
+img{
+  height: 150px;
+    width: 150px;
+   overflow: hidden;
+    border-radius: 50%;
+    
+   
+ 
+
+    
+   
+  
+   
+}
+.batal h1{
+    font-size: 2rem ; 
+    font-weight: 600;
+    color: white;
+    margin-top: 10px;
+
+}
+.batal h2 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    
+color: rgba(255, 255, 255, 0.709);
+    
+
+}
+
+.links > li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:400px ;
+    height: 50px;
+   
+    
+   
+}
+.links >li{
+    background-color: white;
+    margin-top: 3rem;
+    border-radius: 1.5rem;
+    border: 1px solid rgb(21, 18, 18)
+    
+    
+}
+
+    
+
+.links >li >a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+  
+  
+}
+.links>li:hover{
+    transform: translate(-3px,-3px);
+    background-color: silver;
+}
+
+
+   
+    
+    
+   
+   
+
+
+
+    
+
+
+
+
+
